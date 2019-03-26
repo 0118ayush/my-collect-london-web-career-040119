@@ -9,3 +9,5 @@ def my_collect(array)
   end 
   newarray
 end 
+
+my_collect(array){
