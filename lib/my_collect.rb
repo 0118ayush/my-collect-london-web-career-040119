@@ -9,5 +9,3 @@ def my_collect(students)
   end 
   newarray
 end 
-
-my_collect(students){|x|newarray.push(x.upcase)}
