@@ -10,4 +10,4 @@ def my_collect(array)
   newarray
 end 
 
-my_collect(array){|x| x.upcase}
+my_collect{|x| x.upcase}
