@@ -9,5 +9,3 @@ def my_collect(array)
   end 
   capitalized
 end 
-
-my_collect(array){|x| capitalized.push(x.upcase)}
