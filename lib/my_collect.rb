@@ -10,4 +10,4 @@ def my_collect(array)
   capitalized
 end 
 
-my_collect(array){|x| capitalized.push(x.capitalize)}
+my_collect(array){|x| capitalized.push(x.upcase)}
