@@ -7,5 +7,5 @@ def my_collect(array)
       newarray.push(array[i])
     i += 1
   end 
-  capitalized
+  newarray
 end 
